@@ -22,7 +22,7 @@ Página única (estilo "link na bio") da loja Néia Artesanatos, que vende aviam
 - Fontes: Inter (texto), Dancing Script (slogan), Cormorant Garamond (monograma de fallback).
 - Cores: rosa da página `--accent: #b5476b`; rosa da logo `#c70661`; verde da logo `#9cc157`.
 - Botões: WhatsApp e Instagram usam as cores oficiais de cada plataforma; a loja usa o rosa da marca.
-- Links: WhatsApp `https://wa.me/5518996340125`, Instagram `https://www.instagram.com/neia.artesanatos.ep/`, loja `https://www.neiaartesanatos.com.br/`.
+- Links: WhatsApp `https://wa.me/5518996340125`, Instagram `https://www.instagram.com/neia.artesanatos.ep/`, loja `https://www.neiaartesanatos.com.br/`, "Como chegar" = rota do Google Maps até R. Osvaldo C. Feitosa, 140 - Pres. Epitácio/SP (botão azul Google).
 
 ## Prévia do link (Open Graph / WhatsApp)
 
