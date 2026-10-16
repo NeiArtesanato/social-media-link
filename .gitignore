@@ -1,0 +1,17 @@
+# Prints e imagens de teste (ex.: prévia do WhatsApp)
+image.png
+screenshot*.png
+print*.png
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Claude Code (configurações locais de cada pessoa)
+.claude/settings.local.json
